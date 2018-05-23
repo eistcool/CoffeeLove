@@ -2,4 +2,8 @@
 This is about the love of coffee
 Kaffeetest
 Milch - Nein Danke!
-Vielleicht trinke ich ausnahmsweise auch mal einen Kaffee ...
+Espresso wird immer mit einer Espressomaschine bezogen
+Die Zubereitung eines Espressos ist relativ stark standardisiert. Zunächst werden für einen Espresso die Kaffeebohnen besonders fein gemahlen. Der Grund dafür liegt darin, dass zum einen durch die kurze Durchlaufzeit von 25 bis 35 Sekunden, sich der Kaffee besser extrahieren lässt und zum anderen der benötigte Brühdruck von 6 bis 9 bar nur so aufgebaut werden kann. Für einen einfachen Espresso werden in der Regel 7 bis 9 Gramm und für einen doppelten 12 bis 20 g Kaffeemehl in einen sog. Siebträger gefüllt. Bezogen werden schließlich 20 bis 50 ml Espresso, je nachdem wie viel gemahlener Kaffee eingesetzt wurde. Die Wassertemperatur für Espresso beträgt von 90 °C bis 96 °C und variiert je nach Kaffeesorte und persönlichem Geschmack.
+
+Filterkaffee wird langsam aufgebrüht
+Da die Zubereitungsvarianten beim Filterkaffee fast keine Grenzen kennen, gibt es auch kein streng standardisiertes Brühverfahren. Jedoch gibt es mindestens genauso viele Parameter zu beachten wie bei der Espressozubereitung. Ein Hauptunterschied in der Zubereitungsweise lässt sich gleich beim Mahlgut ausmachen, denn für Filterkaffee werden die Bohnen deutlich gröber gemahlen, als für Espresso. Anschließend wird das Kaffeemehl in einen zuvor durchgespülten Papierfilter gegeben und in kreisenden Bewegungen aufgebrüht. Dabei wird das Wasser auf 88°C bis 96°C erhitzt und die entsprechende Wassermenge variiert von 100ml bis zu mehreren Litern im Gastro- Bereich. Die Brühzeit schwankt je nach Kaffeemenge zwischen 2 und 6 Minuten.
